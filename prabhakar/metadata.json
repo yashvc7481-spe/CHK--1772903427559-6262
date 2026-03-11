@@ -1,0 +1,5 @@
+{
+  "name": "CampusVoice",
+  "description": "A smart college e-grievance portal enabling students to voice concerns efficiently with AI-assisted drafting, and allowing administrators to track, categorize, and resolve issues effectively.",
+  "requestFramePermissions": []
+}
